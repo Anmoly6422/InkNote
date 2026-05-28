@@ -1,16 +1,127 @@
-# React + Vite
+# InkNote 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive note-making web application built with React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+InkNote is designed to work smoothly on both desktop and mobile devices, providing a clean and user-friendly experience for managing notes anytime, anywhere.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
+## 🚀 Live Demo
 
-## React Compiler
+Coming Soon...
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
+## ✨ Features
+- Create Notes
 
-## Expanding the ESLint configuration
+- Edit Notes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Delete Notes
+
+- Responsive Design for Mobile & Desktop
+
+- Clean and Modern UI
+
+- Fast Performance
+
+- User-Friendly Interface
+
+---
+## 🛠️ Tech Stack
+- React.js
+
+- Tailwind CSS
+
+- JavaScript
+
+- Vite
+
+---
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Anmoly6422/InkNote.git
+
+```
+
+Go to the project directory:
+
+```bash
+cd InkNote
+
+```
+
+Install dependencies:
+
+```bash
+npm install
+
+```
+
+Start the development server:
+
+```bash
+npm run dev
+
+```
+---
+## 📱 Responsive Design
+
+InkNote is fully responsive and optimized for:
+
+- Mobile Devices 📱
+
+- Tablets 📲
+
+- Desktop Screens 💻
+
+The UI automatically adapts to different screen sizes for a seamless experience.
+
+---
+## 📁 Project Structure
+```bash
+InkNote/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.jsx
+│ ├── main.jsx
+│
+├── package.json
+└── README.md
+
+```
+---
+## 🌐 Deployment
+
+This project can be deployed on:
+
+- Vercel
+
+- Netlify
+
+- GitHub Pages
+
+---
+## 🤝 Contributing
+
+Contributions are welcome.
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+## 📜 License
+
+MIT License
+
+---
+## 👨‍💻 Author
+
+Anmol Yadav
+
+GitHub: [https://github.com/Anmoly6422](https://github.com/Anmoly6422)
